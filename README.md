@@ -24,7 +24,6 @@ The repository is a **collection of resources and notes on various cybersecurity
 8. **WeLiveSecurity by ESET** - [https://www.welivesecurity.com/](https://www.welivesecurity.com/)
 9. **Naked Security by Sophos** - [https://nakedsecurity.sophos.com/](https://nakedsecurity.sophos.com/)
 10. **Troy Hunt’s Blog** - [https://www.troyhunt.com/](https://www.troyhunt.com/)
-11. https://exampremium.com/
 
 ### Books
 1. **"The Web Application Hacker's Handbook" by Dafydd Stuttard, Marcus Pinto** - [Link](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
@@ -55,3 +54,4 @@ The repository is a **collection of resources and notes on various cybersecurity
 
 ### Tools and Additional Resources
 1. **Pentest Cheat Sheets** - [https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
+2. https://exampremium.com/
