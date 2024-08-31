@@ -170,3 +170,174 @@ What is the main purpose of generating a forensic timeline?
 - To encrypt data
 - To delete irrelevant files
 
+### Question 1
+
+True or False. In digital forensics, file system artifacts such as log files and registry entries can provide critical evidence.
+1 point
+
+- True
+- False
+
+---
+
+### Question 2
+
+What term describes the data that remains in deleted files but can still be recovered until the space is overwritten?
+1 point
+
+- Orphan data
+- Residual data
+- Shadow data
+- Slack space
+
+---
+
+### Question 3
+
+In forensic analysis, what does the acronym "NTFS" stand for?
+1 point
+
+- Network Transfer File System
+- New Technology File System
+- New Transfer File Security
+- Network Technology Forensic System
+
+---
+
+### Question 4
+
+Which type of memory is typically considered volatile and loses its content when power is removed?
+1 point
+
+- ROM
+- RAM
+- Flash memory
+- Hard disk drive
+
+---
+
+### Question 5
+
+True or False. The Master Boot Record (MBR) is crucial in identifying partitions on a hard drive during forensic analysis.
+1 point
+
+- True
+- False
+
+---
+
+### Question 6
+
+Which forensic tool is specifically designed to recover data from mobile devices?
+1 point
+
+- Cellebrite
+- FTK Imager
+- EnCase
+- Wireshark
+
+---
+
+### Question 7
+
+Which three (3) of the following are examples of file system metadata? (Select 3)
+1 point
+
+- File creation time
+- File size
+- IP address
+- Last access time
+- File extension
+
+---
+
+### Question 8
+
+In the context of network forensics, which of the following can provide information about a potential data exfiltration attempt?
+1 point
+
+- DNS logs
+- ARP cache
+- Routing tables
+- DHCP logs
+
+---
+
+### Question 9
+
+What does the term "steganography" refer to in digital forensics?
+1 point
+
+- Hiding data within an image or file
+- Encrypting a file
+- Creating a forensic image
+- Analyzing file metadata
+
+---
+
+### Question 10
+
+Which type of attack attempts to send too much data to a network or system, resulting in a denial of service?
+1 point
+
+- Brute force attack
+- Man-in-the-middle attack
+- Buffer overflow attack
+- Phishing attack
+
+---
+
+### Question 11
+
+True or False. Forensic imaging should be performed before analyzing the original digital evidence.
+1 point
+
+- True
+- False
+
+---
+
+### Question 12
+
+Which operating system feature in Windows is often analyzed to determine the last time a user accessed a file?
+1 point
+
+- Event Viewer
+- Registry
+- Recycle Bin
+- Pagefile
+
+---
+
+### Question 13
+
+Which file system is commonly used by UNIX and Linux systems?
+1 point
+
+- FAT32
+- NTFS
+- HFS+
+- EXT4
+
+---
+
+### Question 14
+
+True or False. Data carving is a technique used to recover fragmented files from unallocated space.
+1 point
+
+- True
+- False
+
+---
+
+### Question 15
+
+What is the main purpose of using cryptographic hash functions in digital forensics?
+1 point
+
+- To encrypt files
+- To identify and verify the integrity of data
+- To hide data
+- To speed up file access
+
