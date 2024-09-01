@@ -24,6 +24,7 @@ The repository is a **collection of resources and notes on various cybersecurity
 8. **WeLiveSecurity by ESET** - [https://www.welivesecurity.com/](https://www.welivesecurity.com/)
 9. **Naked Security by Sophos** - [https://nakedsecurity.sophos.com/](https://nakedsecurity.sophos.com/)
 10. **Troy Hunt’s Blog** - [https://www.troyhunt.com/](https://www.troyhunt.com/)
+11. https://www.stationx.net/how-to-use-wireshark-to-capture-network-traffic/
 
 ### Books
 1. **"The Web Application Hacker's Handbook" by Dafydd Stuttard, Marcus Pinto** - [Link](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
